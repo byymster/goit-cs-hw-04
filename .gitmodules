@@ -1,0 +1,3 @@
+[submodule "texts"]
+	path = texts
+	url = https://github.com/frike/ua-legislation.git
